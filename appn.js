@@ -67,6 +67,7 @@
 //     console.log("Good Morning Madam");
     
 // }
+// Q 3
 // let signal=prompt("write trafic signal color");
 // if (signal == "red") {console.log("Must Stop");
 // }
@@ -79,19 +80,13 @@
 //     (signal == "yellow");
 //     console.log("Ready to move");
 // }
+
 // Q 4
 // let fuel=prompt("what your fuel in car");
 // if (fuel <="0.25 ") {console.log("Please refill the fuel in your car");
 
 // }
 
-
-
-// // Q 6
-// let marks= prompt("whats your marks in physics")
-// if (marks >= "80") {console.log("Excellent your Grade is A-one");
-
-    
 //  }
 // Q 7
 //   let nmb1= prompt("Guess the number");
@@ -99,6 +94,7 @@
 
 //  if (nmb1 ==6)  {console.log("Close enough to the correct number");
 //  }
+// Q 5
 // let a = 4
 // if (++a===5) {alert("given condition for a variable is true")
 // }
@@ -150,13 +146,13 @@
 //   let obtained3=prompt("write a obtained mrks of subject three")
 // let totalmarks=300
 // Q 9
-let num=prompt("give a number")
-if (num) {alert("its even number")
+// let num=prompt("give a number")
+// if (num) {alert("its even number")
     
-}
-else{
-    alert("its odd number")
-}
+// }
+// else{
+//     alert("its odd number")
+// }
 
 
 
